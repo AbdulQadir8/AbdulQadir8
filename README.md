@@ -14,7 +14,7 @@ I'm a passionate Generative and Agentic AI Engineer with a strong knowledge in a
 ## Projects
 ### Project 1: [Online Mart Api](https://github.com/AbdulQadir8/online_ai_mart)
 - **Description:** A brief description of what the project does.
-- **Technologies Used:** List of technologies used in the project.
+- **Technologies Used:** FastAPI,SQLModel, ApacheKafka, PostgreSQL, Docker, DevContainers, Kong, Azure Cloud.
 
 ### Project 2: [Lawyer Support System](https://github.com/AbdulQadir8/CourtOrderAnalyzer)
 - **Description:** A brief description of what the project does.
@@ -25,7 +25,7 @@ I'm a passionate Generative and Agentic AI Engineer with a strong knowledge in a
 
 ## Contact Me
 - **Email:** [aq98123@gmail.com](mailto:aq98123@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/abdul-qadar-83a275216/)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/abdul-qadar-83a275216/)
 - **Twitter:** [@AbdulQadar23104](https://x.com/AbdulQadar23104)
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just want to connect.
