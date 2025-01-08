@@ -1,7 +1,7 @@
-# Hi there, I'm AbdulQadir 👋
+# Hi there, I'm Abdul Qadar 👋
 
 ## About Me
-I'm a passionate Generative and Agentic AI Engineer with a strong knowledge in artificial intelligence, machine learning, and building multi-agent systems. I enjoy solving complex problems and creating innovative AI solutions.
+Building multi-agent AI systems.I'm a passionate Generative and Agentic AI Engineer with a strong knowledge in artificial intelligence, machine learning and backend developer.I enjoy solving complex problems and creating innovative AI solutions.
 
 ## Skills
 - **Languages:** Python
@@ -13,12 +13,12 @@ I'm a passionate Generative and Agentic AI Engineer with a strong knowledge in a
 
 ## Projects
 ### Project 1: [Online Mart Api](https://github.com/AbdulQadir8/online_ai_mart)
-- **Description:** A brief description of what the project does.
+- **Description:** End-to-end complete backend of E-commerece website with testing and deployment.
 - **Technologies Used:** FastAPI,SQLModel, ApacheKafka, PostgreSQL, Docker, DevContainers, Kong, Azure Cloud.
 
 ### Project 2: [Lawyer Support System](https://github.com/AbdulQadir8/CourtOrderAnalyzer)
-- **Description:** A brief description of what the project does.
-- **Technologies Used:** List of technologies used in the project.
+- **Description:** Complete Agentic AI workflow chatbot to help lawyers to research and summarize legal documnets.
+- **Technologies Used:** Python, Langchain and LangGraph.
 
 ## GitHub Stats
 ![AbdulQadir8's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulQadir8&show_icons=true&theme=radical)
