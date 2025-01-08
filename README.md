@@ -1,7 +1,7 @@
 # Hi there, I'm Abdul Qadar 👋
 
 ## About Me
-Building multi-agent AI systems.I'm a passionate Generative and Agentic AI Engineer with a strong knowledge in artificial intelligence, machine learning and backend developer.I enjoy solving complex problems and creating innovative AI solutions.
+Building multi-agent AI systems as I enjoy solving complex problems and creating innovative AI solutions. I'm a passionate Generative and Agentic AI Engineer with a strong knowledge in artificial intelligence, machine learning and backend stack.
 
 ## Skills
 - **Languages:** Python
@@ -17,7 +17,7 @@ Building multi-agent AI systems.I'm a passionate Generative and Agentic AI Engin
 - **Technologies Used:** FastAPI,SQLModel, ApacheKafka, PostgreSQL, Docker, DevContainers, Kong, Azure Cloud.
 
 ### Project 2: [Lawyer Support System](https://github.com/AbdulQadir8/CourtOrderAnalyzer)
-- **Description:** Complete Agentic AI workflow chatbot to help lawyers to research and summarize legal documnets.
+- **Description:** Complete Agentic AI workflow chatbot to help lawyers to research and summarize legal documnents.
 - **Technologies Used:** Python, Langchain and LangGraph.
 
 ## GitHub Stats
