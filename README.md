@@ -5,7 +5,7 @@ Building multi-agent AI systems as I enjoy solving complex problems and creating
 
 ## Skills
 - **Languages:** Python
-- **Agents Frameworks:** LangChain, LangGraph, CrewAI
+- **Agents Frameworks:** OpenAI Agents SDK, LangGraph, CrewAI
 - **Web Development:** FastAPI, Streamlit, SQLModel, 
 - **Data Science:** Pandas, NumPy, Scikit-Learn
 - **Databases:** MySQL, PostgreSQL
